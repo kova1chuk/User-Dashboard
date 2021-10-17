@@ -1,9 +1,17 @@
 # UserStatistic application example
 
-Config/Run
+## Backend
+
 ```
-chmod +x frontSetup.sh
-chmod +x backSetup.sh
-sh backSetup.sh
-sh frontSetup.sh
+cd back
+npm i
+npm start
+```
+
+## Frontend
+
+```
+cd front
+npm i
+npm start
 ```
